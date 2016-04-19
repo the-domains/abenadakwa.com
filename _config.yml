@@ -1,0 +1,28 @@
+name: Abena Dakwa
+favicon: null
+layout_spectrum: 0.9463034849613905
+typography_spectrum: 0.6547433519735932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2113512612413615
+  lightness: 0.8113867386709899
+  saturation: 0.34967178595252335
+  rhythmicContrast: 0.7807205663993955
+purpose: []
