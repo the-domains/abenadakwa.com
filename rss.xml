@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Abena Dakwa]]></title>
         <description><![CDATA[Abena Dakwa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abenadakwa.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:30:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 01:38:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abenadakwa.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Abena]]></title>
             <description><![CDATA[<p>Abena, means “girl born on Tuesday” and yes, I was born on a Tuesday! But, not the last one. I have a MBA in management and strategy and I’m currently working on my DBA, doctorate’s in business administration. I am a published author of a collection of poetry called, The Poems of Life.​</p>]]></description>
-            <link>undefinedabout-abena/index.html</link>
+            <link>https://thegrid.ai/abenadakwa.com/about-abena/index.html</link>
             <guid isPermaLink="false">6983b0d6-1468-4dbb-90a6-12f77bd422d0</guid>
-            <pubDate>Tue, 26 Apr 2016 01:30:58 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 01:36:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
