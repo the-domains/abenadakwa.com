@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Abena, means “girl born on Tuesday” and yes, I was born on a Tuesday! But, not the last one. I have a MBA in management and strategy and I’m currently working on my DBA, doctorate’s in business administration. I am a published author of a collection of poetry called, The Poems of Life.​'
-datePublished: '2016-04-28T01:36:42.112Z'
-dateModified: '2016-04-28T01:36:40.980Z'
+datePublished: '2016-04-28T01:38:39.923Z'
+dateModified: '2016-04-28T01:38:29.234Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-about-abena.md
